@@ -1,0 +1,15 @@
+C:\Users\Micheal\Visual Studio Projects\fms\fms\bin\Debug\fms.exe.config
+C:\Users\Micheal\Visual Studio Projects\fms\fms\bin\Debug\fms.exe.manifest
+C:\Users\Micheal\Visual Studio Projects\fms\fms\bin\Debug\fms.application
+C:\Users\Micheal\Visual Studio Projects\fms\fms\bin\Debug\fms.exe
+C:\Users\Micheal\Visual Studio Projects\fms\fms\bin\Debug\fms.pdb
+C:\Users\Micheal\Visual Studio Projects\fms\fms\obj\Debug\fms.csprojResolveAssemblyReference.cache
+C:\Users\Micheal\Visual Studio Projects\fms\fms\obj\Debug\fms.Form1.resources
+C:\Users\Micheal\Visual Studio Projects\fms\fms\obj\Debug\fms.Properties.Resources.resources
+C:\Users\Micheal\Visual Studio Projects\fms\fms\obj\Debug\fms.csproj.GenerateResource.Cache
+C:\Users\Micheal\Visual Studio Projects\fms\fms\obj\Debug\fms.TrustInfo.xml
+C:\Users\Micheal\Visual Studio Projects\fms\fms\obj\Debug\fms.exe.manifest
+C:\Users\Micheal\Visual Studio Projects\fms\fms\obj\Debug\fms.application
+C:\Users\Micheal\Visual Studio Projects\fms\fms\obj\Debug\fms.exe
+C:\Users\Micheal\Visual Studio Projects\fms\fms\obj\Debug\fms.pdb
+C:\Users\Micheal\Visual Studio Projects\fms\fms\obj\Debug\fms.Resource1.resources
